@@ -1,6 +1,6 @@
 # Website-template
 
-Creat a new repository on the command line vscode
+# Creat a new repository on the command line vscode
 
 echo "# Template-Website" >> README.md
 
